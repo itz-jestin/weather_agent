@@ -1,0 +1,81 @@
+{
+  "bankroll": 237.31,
+  "positions": [
+    {
+      "market_id": "0xabc003",
+      "question": "Will New York see a high above 90\u00b0F on June 29?",
+      "city": "new york",
+      "side": "NO",
+      "stake_usd": 250.0,
+      "kelly_frac": 0.25,
+      "model_prob": 0.0656,
+      "market_prob": 0.6,
+      "edge": -0.5344,
+      "ev": 0.334,
+      "end_date": "2026-06-29",
+      "opened_at": "2026-06-28T14:49:01.139043",
+      "status": "OPEN"
+    },
+    {
+      "market_id": "0xabc002",
+      "question": "Will Tokyo temperature exceed 35\u00b0C on June 30?",
+      "city": "tokyo",
+      "side": "NO",
+      "stake_usd": 187.5,
+      "kelly_frac": 0.25,
+      "model_prob": 0.02,
+      "market_prob": 0.52,
+      "edge": -0.5,
+      "ev": 0.2604,
+      "end_date": "2026-06-30",
+      "opened_at": "2026-06-28T14:49:01.140043",
+      "status": "OPEN"
+    },
+    {
+      "market_id": "0xabc010",
+      "question": "Will London temperature exceed 22\u00b0C on June 30?",
+      "city": "london",
+      "side": "YES",
+      "stake_usd": 140.62,
+      "kelly_frac": 0.25,
+      "model_prob": 0.8493,
+      "market_prob": 0.36,
+      "edge": 0.4893,
+      "ev": 0.3398,
+      "end_date": "2026-06-30",
+      "opened_at": "2026-06-28T14:49:01.140043",
+      "status": "OPEN"
+    },
+    {
+      "market_id": "0xabc005",
+      "question": "Will Dubai temperature exceed 44\u00b0C on June 30?",
+      "city": "dubai",
+      "side": "NO",
+      "stake_usd": 105.47,
+      "kelly_frac": 0.25,
+      "model_prob": 0.02,
+      "market_prob": 0.39,
+      "edge": -0.37,
+      "ev": 0.1516,
+      "end_date": "2026-06-30",
+      "opened_at": "2026-06-28T14:49:01.141539",
+      "status": "OPEN"
+    },
+    {
+      "market_id": "0xabc004",
+      "question": "Will it rain in Mumbai on June 29, 2026?",
+      "city": "mumbai",
+      "side": "YES",
+      "stake_usd": 79.1,
+      "kelly_frac": 0.25,
+      "model_prob": 0.9194,
+      "market_prob": 0.58,
+      "edge": 0.3394,
+      "ev": 0.1463,
+      "end_date": "2026-06-29",
+      "opened_at": "2026-06-28T14:49:01.143542",
+      "status": "OPEN"
+    }
+  ],
+  "history": []
+}
