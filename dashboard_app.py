@@ -14,7 +14,7 @@ st.set_page_config(
 )
 
 st.title("🌦 Weather Prediction Trading Agent")
-st.caption("CrowdWisdomTrading Internship Project")
+
 
 trader = PaperTrader()
 stats = trader.stats()
